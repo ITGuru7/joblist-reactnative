@@ -1,0 +1,10 @@
+node_modules/**/*
+.expo/*
+.vs/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+.watchmanconfig
+package-lock.json
